@@ -12,7 +12,7 @@ public class Card implements Comparable {
 		this.eSuit = eSuit;
 		this.eRank = eRank;
 	}
-
+	
 	public eRank geteRank() {
 		return eRank;
 	}
